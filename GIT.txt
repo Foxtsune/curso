@@ -1,0 +1,5 @@
+LS > "nome do arquivo.extensao" Criar arquivo com todos os arquivos locais dentro
+
+git init - Iniciar repositorio git
+
+git diff - O que tem de diferente entre os arquivos 
